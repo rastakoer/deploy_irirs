@@ -1,0 +1,6 @@
+keys.sh
+push.sh
+__pycache__
+.venv
+config.py
+.env
